@@ -20,4 +20,3 @@ if proceed == "y" or "Y":
     print("There are {} tickets remaining.".format(tickets_remaining))
 else:
     print("Thanks anyways {}!".format(name))
-# //TODO: Send to github
