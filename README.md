@@ -1,2 +1,3 @@
-# peanut-truffle
-Masterticket program that was written in python.
+# MasterTicket
+Simple program that calculates ticket purchases.
+Written in python.
